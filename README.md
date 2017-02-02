@@ -5,8 +5,8 @@ A simple php script for getting request's statistics. Basically the script shows
 - Total number of entries
 - Total number of success requests (HTTP CODES 2xx)
 - Total number of failed requests (HTTP CODES 4xx)
-- Top Clients (Top 3 clients who made most request)
-- Top Resources (Top 3 resources queried)
+- Top clients (Top 3 clients who made most request)
+- Top resources (Top 3 resources queried)
 
 ## Requirements
 
