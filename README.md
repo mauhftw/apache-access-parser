@@ -20,7 +20,6 @@ Run the following commands
 
 - `git clone https://github.com/mauhftw/apache-access-parser`
 - `php parer.php -f /path/to/apache_access_log`
-- Have fun!
 
 ## Example
 
