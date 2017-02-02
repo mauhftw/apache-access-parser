@@ -1,4 +1,4 @@
-# Apache-access-parser
+# Apache's Access_log parser
 
 A simple php script for getting request's statistics. The script requires an apache access log file. The scripts includes an apache's access log file example to test the script.
 
