@@ -1,6 +1,6 @@
 # Apache-access-parser
 
-A simple php script for getting request's statistics. Basically the scripts show information about
+A simple php script for getting request's statistics. Basically the script shows information about:
 
 - Number of entries
 - Number of success requests (HTTP CODES 2xx)
@@ -20,6 +20,7 @@ Run the following commands
 
 - `git clone https://github.com/mauhftw/apache-access-parser`
 - `php parer.php -f /path/to/apache_access_log`
+- Have fun!
 
 ## Example
 
