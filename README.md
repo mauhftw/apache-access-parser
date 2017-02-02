@@ -1,4 +1,5 @@
-## Apache-access-parser
+# Apache-access-parser
+
 A simple php script for getting request's statistics. Basically the scripts show information about
 
 - Number of entries
