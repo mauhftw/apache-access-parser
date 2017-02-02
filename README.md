@@ -20,7 +20,7 @@ Basically the script shows information about:
 Run the following commands
 
 - `git clone https://github.com/mauhftw/apache-access-parser`
-- `php parer.php -f /path/to/apache_access_log`
+- `php parser.php -f /path/to/apache_access_log`
 
 ## Example
 
